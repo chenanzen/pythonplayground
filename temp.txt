@@ -1,0 +1,3 @@
+FIFO - First In First Out
+IDE - Integrated Development Environment
+FIFO - & C:/Users/chena/OneDrive/Documents/Project/codes/pythonplayground/py3fund_module5/virenv/Scripts/python.exe c:/Users/chena/OneDrive/Documents/Project/codes/pythonplayground/py3fund_module8/acronyms.py
